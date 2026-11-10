@@ -16,14 +16,10 @@ The second advantage is flexibility. Companies can react quickly to new requirem
 
 The third advantage is a diverse community. Open source comes from the idea of free science: sharing knowledge to reach the best possible result. Even the best developers only work from their own standpoint, so many good ideas and perspectives are lost, while people from different backgrounds can add theirs. For users, the community means learning from others and passing on their own knowledge, and working on a project together can be a connecting hobby. For providers, open source attracts technical talent, including people who at first only take part privately.
 
-### A smaller headline
+### Sources
 
 Heron, M., Hanson, V. L., & Ricketts, I. (2013). Open source and accessibility: Advantages and limitations. Journal of Interaction Science, 1, Article 2. [link to website](https://doi.org/10.1186/2194-0827-1-2)
 
 TechTarget. (2026). 5 advantages and 6 disadvantages of open source software. [link to website](https://www.techtarget.com/news/5-advantages-and-6-disadvantages-of-open-source-software/847664/)
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
-
 
 
