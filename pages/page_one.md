@@ -1,4 +1,4 @@
-# Page one
+# Open Source: Stronger Together 
 
 ## This is the headline of your first page
 
