@@ -7,8 +7,8 @@
 :root {
   --white: #ffffff;
   --black: #000000;
-  --blue: #5899e2;
-  --light-blue: #d6eaff;
+  --blue: #1659a5;
+  --light-blue: #85b8ee;
   --green: #9de38c;
   --purple: #ceaeea;
   --red: #f22c43;
@@ -67,7 +67,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/skagen.jpg");
+  background-image: url("./images/bildprogrammieren.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(160, 213, 240, 0.447);
+  background-color: rgba(166, 220, 246, 0.447);
   height: 100%;
 }
 
@@ -228,6 +228,10 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(--red); }
-#page_one h2 { color: var(--red); }
-#page_three h2 { color: var(--red); }
+#page_two h2 { color: var(--blue); }
+#page_one h2 { color: var(--blue); }
+#page_three h2 { color: var(--blue); }
+
+#page_two h3 { color: var(--light-blue); }
+#page_one h3 { color: var(--light-blue); }
+#page_three h3 { color: var(--light-blue); }

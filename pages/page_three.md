@@ -1,6 +1,6 @@
 # Zotero
 
-### What is it and why does it help? 
+## What is it and why does it help? 
 
 [Zotero](https://github.com/zotero/zotero) is a free tool to collect, organize, cite and share research sources (Zotero, n.d.-f). It was created at the Roy Rosenzweig Center for History and New Media at George Mason University (Zotero, n.d.-a). In journamlism, work involves a lot of literature, so a well-ordered bibliography that I can always return to is essential. When I read a study in my browser, the Zotero Connector saves it directly into my research project and gives me a short citation for my text. I can save it under my chapter and access it again without downloading and sorting PDFs myself. At the end, I get the full bibliography in the citation style I need.
 
