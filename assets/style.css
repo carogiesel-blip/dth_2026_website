@@ -229,3 +229,5 @@ main img {
 }
 
 #page_two h2 { color: var(--red); }
+#page_one h2 { color: var(--red); }
+#page_three h2 { color: var(--red); }
